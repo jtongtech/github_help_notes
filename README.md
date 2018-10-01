@@ -1,4 +1,7 @@
 # Begning Notes on using Git and Github
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+GitHub is a web-based hosting service for version control using Git.
 
 # If you do not have git installed...
 
