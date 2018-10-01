@@ -1,8 +1,5 @@
 # Begning Notes on using Git and Github
 
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-
 # If you do not have git installed...
 
 Download git from here https://git-scm.com/downloads
